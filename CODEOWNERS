@@ -1,0 +1,13 @@
+# CODEOWNERS
+# Default owner for all repository content
+* @richardschreiber
+
+# Framework directory requires explicit owner approval for changes
+/frameworks/ @richardschreiber
+
+# Root documentation requires explicit owner approval
+/README.md @richardschreiber
+/LICENSE.md @richardschreiber
+/canonical_index.md @richardschreiber
+/credibility.md @richardschreiber
+/governance.md @richardschreiber
