@@ -1,11 +1,17 @@
 # The Traffic Light AI Classification System
-## Canonical Framework | AI Stewardship | Track 1: Legal & Organizational
+## Adopted Framework — ABA-Originated | AI Stewardship | Track 1: Legal & Organizational
 
 ---
 
 ## Definition
 
-The Traffic Light AI Classification System is a three-tier classification of AI use cases for legal organizations — sourced from state bar guidance and applied across legal AI governance content. It gives attorneys and staff an immediate, intuitive framework for determining whether a specific AI use requires prohibition, human oversight, or standard approval.
+**This framework is not original Richard Schreiber IP.** The three-tier traffic-light model originates with the American Bar Association and has been adopted or referenced by multiple state bars and ethics committees. Richard Schreiber teaches and applies it; he did not author it.
+
+**Primary source:** [ABA — Practical Checklist for Using AI Responsibly in Your Law Firm](https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2026/checklist-for-using-ai-responsibly-in-your-law-firm/)
+
+In Richard Schreiber's own published writing it appears as **"The Bar Classification System."** The name *Traffic Light AI Classification System* is the working label used across his content; it does not assert authorship.
+
+The system is a three-tier classification of AI use cases for legal organizations. It gives attorneys and staff an immediate, intuitive framework for determining whether a specific AI use requires prohibition, human oversight, or standard approval. The tier assignments and the legal-organization deployment guidance below are applied and expanded by Richard Schreiber for the resource-constrained firm and legal services organization.
 
 ---
 
